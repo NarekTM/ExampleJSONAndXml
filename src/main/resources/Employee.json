@@ -1,0 +1,21 @@
+{
+  "firstName": "Mark",
+  "lastName": "Jacobs",
+  "age": 30,
+  "address": {
+    "country": "Armenia",
+    "city": "Yerevan",
+    "street": "Baghramyan",
+    "postalCode": "0014"
+  },
+  "phoneNumbers": [
+    {
+      "type": "HOME",
+      "number": "077000000"
+    },
+    {
+      "type": "MOBILE",
+      "number": "055000000"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "employees": [
+    {
+      "firstName": "Mark",
+      "lastName": "Jacobs",
+      "age": 30,
+      "address": {
+        "country": "Armenia",
+        "city": "Yerevan",
+        "street": "Baghramyan",
+        "postalCode": "0014"
+      },
+      "phoneNumbers": [
+        {
+          "type": "HOME",
+          "number": "077000000"
+        },
+        {
+          "type": "MOBILE",
+          "number": "055000000"
+        }
+      ]
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Harvey",
+      "age": 36,
+      "address": {
+        "country": "Armenia",
+        "city": "Yerevan",
+        "street": "Baghramyan",
+        "postalCode": "0014"
+      },
+      "phoneNumbers": [
+        {
+          "type": "HOME",
+          "number": "077000000"
+        },
+        {
+          "type": "MOBILE",
+          "number": "055000000"
+        }
+      ]
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Spenser",
+      "age": 42,
+      "address": {
+        "country": "Armenia",
+        "city": "Yerevan",
+        "street": "Baghramyan",
+        "postalCode": "0014"
+      },
+      "phoneNumbers": [
+        {
+          "type": "HOME",
+          "number": "077000000"
+        },
+        {
+          "type": "MOBILE",
+          "number": "055000000"
+        }
+      ]
+    },
+    {
+      "firstName": "Amelia",
+      "lastName": "Strikes",
+      "age": 28,
+      "address": {
+        "country": "Armenia",
+        "city": "Yerevan",
+        "street": "Baghramyan",
+        "postalCode": "0014"
+      },
+      "phoneNumbers": [
+        {
+          "type": "HOME",
+          "number": "077000000"
+        },
+        {
+          "type": "MOBILE",
+          "number": "055000000"
+        }
+      ]
+    }
+  ]
+}

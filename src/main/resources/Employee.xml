@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <firstName>Mark</firstName>
+    <lastName>Jacobs</lastName>
+    <age>30</age>
+    <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+        <postalCode>0014</postalCode>
+        <street>Baghramyan</street>
+    </address>
+    <phoneNumbers>
+        <number>077000000</number>
+        <type>HOME</type>
+    </phoneNumbers>
+    <phoneNumbers>
+        <number>055000000</number>
+        <type>MOBILE</type>
+    </phoneNumbers>
+</employeeXML>
